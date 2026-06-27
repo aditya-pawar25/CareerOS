@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+build/
+dist/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# Coverage
+.coverage
+htmlcov/
+
+# Cache
+.cache/
+
+# Temporary Files
+*.tmp
+
+# SQLite
+*.sqlite3
+
+# Mac
+.AppleDouble
+
+# Windows
+desktop.ini
